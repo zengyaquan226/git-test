@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hit-fix test");
         System.out.println("hit-fix ssh");
         System.out.println("hello world");
+        System.out.println("hello world");
     }
 }
